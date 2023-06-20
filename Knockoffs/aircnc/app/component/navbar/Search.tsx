@@ -62,7 +62,7 @@ const Search = () => {
         >
           <div className="hidden sm:block">Add Guests</div>
           <div
-            className="
+            className="t
                 p-2
                 bg-rose-500
                 rounded-full
